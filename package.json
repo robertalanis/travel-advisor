@@ -1,7 +1,7 @@
 {
   "name": "travel-advisor",
   "version": "0.1.0",
-  "homepage": "https://robertalannis.github.io/travel-advisor",
+  "homepage": "https://robertalanis.github.io/travel-advisor/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
